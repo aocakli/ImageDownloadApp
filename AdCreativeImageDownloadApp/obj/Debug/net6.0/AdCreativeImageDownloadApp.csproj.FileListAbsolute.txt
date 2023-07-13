@@ -1,0 +1,15 @@
+/Users/azizocakli/Projects/AdCreativeImageDownloadApp/AdCreativeImageDownloadApp/bin/Debug/net6.0/AdCreativeImageDownloadApp
+/Users/azizocakli/Projects/AdCreativeImageDownloadApp/AdCreativeImageDownloadApp/bin/Debug/net6.0/AdCreativeImageDownloadApp.deps.json
+/Users/azizocakli/Projects/AdCreativeImageDownloadApp/AdCreativeImageDownloadApp/bin/Debug/net6.0/AdCreativeImageDownloadApp.runtimeconfig.json
+/Users/azizocakli/Projects/AdCreativeImageDownloadApp/AdCreativeImageDownloadApp/bin/Debug/net6.0/AdCreativeImageDownloadApp.dll
+/Users/azizocakli/Projects/AdCreativeImageDownloadApp/AdCreativeImageDownloadApp/bin/Debug/net6.0/AdCreativeImageDownloadApp.pdb
+/Users/azizocakli/Projects/AdCreativeImageDownloadApp/AdCreativeImageDownloadApp/obj/Debug/net6.0/AdCreativeImageDownloadApp.csproj.AssemblyReference.cache
+/Users/azizocakli/Projects/AdCreativeImageDownloadApp/AdCreativeImageDownloadApp/obj/Debug/net6.0/AdCreativeImageDownloadApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/azizocakli/Projects/AdCreativeImageDownloadApp/AdCreativeImageDownloadApp/obj/Debug/net6.0/AdCreativeImageDownloadApp.AssemblyInfoInputs.cache
+/Users/azizocakli/Projects/AdCreativeImageDownloadApp/AdCreativeImageDownloadApp/obj/Debug/net6.0/AdCreativeImageDownloadApp.AssemblyInfo.cs
+/Users/azizocakli/Projects/AdCreativeImageDownloadApp/AdCreativeImageDownloadApp/obj/Debug/net6.0/AdCreativeImageDownloadApp.csproj.CoreCompileInputs.cache
+/Users/azizocakli/Projects/AdCreativeImageDownloadApp/AdCreativeImageDownloadApp/obj/Debug/net6.0/AdCreativeImageDownloadApp.dll
+/Users/azizocakli/Projects/AdCreativeImageDownloadApp/AdCreativeImageDownloadApp/obj/Debug/net6.0/refint/AdCreativeImageDownloadApp.dll
+/Users/azizocakli/Projects/AdCreativeImageDownloadApp/AdCreativeImageDownloadApp/obj/Debug/net6.0/AdCreativeImageDownloadApp.pdb
+/Users/azizocakli/Projects/AdCreativeImageDownloadApp/AdCreativeImageDownloadApp/obj/Debug/net6.0/AdCreativeImageDownloadApp.genruntimeconfig.cache
+/Users/azizocakli/Projects/AdCreativeImageDownloadApp/AdCreativeImageDownloadApp/obj/Debug/net6.0/ref/AdCreativeImageDownloadApp.dll
